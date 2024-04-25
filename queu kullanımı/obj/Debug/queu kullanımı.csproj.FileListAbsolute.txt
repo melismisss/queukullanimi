@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\queu kullanımı\queu kullanımı\obj\Debug\queu kullanımı.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\queu kullanımı\queu kullanımı\obj\Debug\queu_kullanımı.Form1.resources
+C:\Users\user\source\repos\queu kullanımı\queu kullanımı\obj\Debug\queu_kullanımı.Properties.Resources.resources
+C:\Users\user\source\repos\queu kullanımı\queu kullanımı\obj\Debug\queu kullanımı.csproj.GenerateResource.cache
+C:\Users\user\source\repos\queu kullanımı\queu kullanımı\obj\Debug\queu kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\queu kullanımı\queu kullanımı\bin\Debug\queu kullanımı.exe.config
+C:\Users\user\source\repos\queu kullanımı\queu kullanımı\bin\Debug\queu kullanımı.exe
+C:\Users\user\source\repos\queu kullanımı\queu kullanımı\bin\Debug\queu kullanımı.pdb
+C:\Users\user\source\repos\queu kullanımı\queu kullanımı\obj\Debug\queu kullanımı.exe
+C:\Users\user\source\repos\queu kullanımı\queu kullanımı\obj\Debug\queu kullanımı.pdb
